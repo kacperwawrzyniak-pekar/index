@@ -1,4 +1,3 @@
-
 <html lang="pl">
 <head>
     <meta charset="UTF-8">
@@ -46,7 +45,6 @@
     </div>
 
 </body>
-<!DOCTYPE html>
 <html lang="pl">
 <head>
     <meta charset="UTF-8">
@@ -54,8 +52,11 @@
     <meta name="description" content="Strona z dowcipami ucznia">
     <title>Strona z dowcipami - Zadanie 3</title>
     <style>
-        body {
+        .highlight-section {
             background-color: gray;
+            padding: 10px;
+            margin-top: 0;
+            margin-bottom: 0;
         }
         hr.line1 {
             border: 3px solid red;
@@ -74,29 +75,31 @@
 <body>
 
 <h1 align="right">Dowcipy o babie</h1>
-<fieldset>
-    <legend>Baba w sklepie</legend>
-    Baba wchodzi do sklepu i pyta:<br>
-    - Czy jest chleb?<br>
-    Sprzedawca odpowiada:<br>
-    - Jest, ale tylko suchy.<br>
-    Baba na to:<br>
-    - A co, mokrego nie ma?<br>
-</fieldset>
+<div class="highlight-section">
+    <fieldset>
+        <legend>Baba w sklepie</legend>
+        Baba wchodzi do sklepu i pyta:<br>
+        - Czy jest chleb?<br>
+        Sprzedawca odpowiada:<br>
+        - Jest, ale tylko suchy.<br>
+        Baba na to:<br>
+        - A co, mokrego nie ma?<br>
+    </fieldset>
 
-<hr class="line1">
-<h2 align="center">Dowcipy o Jasiu</h2>
-<fieldset>
-    <legend>Jasiu i szkoła</legend>
-    Nauczycielka pyta Jasia:<br>
-    - Jasiu, co chciałbyś robić, jak dorośniesz?<br>
-    Jasiu odpowiada:<br>
-    - Chciałbym być miliarderem jak mój tata!<br>
-    Nauczycielka pyta:<br>
-    - Twój tata jest miliarderem?<br>
-    Jasiu na to:<br>
-    - Nie, ale też chciałby!<br>
-</fieldset>
+    <hr class="line1">
+    <h2 align="center">Dowcipy o Jasiu</h2>
+    <fieldset>
+        <legend>Jasiu i szkoła</legend>
+        Nauczycielka pyta Jasia:<br>
+        - Jasiu, co chciałbyś robić, jak dorośniesz?<br>
+        Jasiu odpowiada:<br>
+        - Chciałbym być miliarderem jak mój tata!<br>
+        Nauczycielka pyta:<br>
+        - Twój tata jest miliarderem?<br>
+        Jasiu na to:<br>
+        - Nie, ale też chciałby!<br>
+    </fieldset>
+</div>
 
 <hr class="line2">
 <h3 align="left">Dowcipy o informatykach</h3>
@@ -109,12 +112,10 @@
 <hr class="line3">
 <p>
     Wawrzyniak-Pekar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kacper
-
 </p>
 <p>
     &copy; &reg; &trade; &euro; &yen; &pound; &sect;
 </p>
 
 </body>
-
-
+</html>

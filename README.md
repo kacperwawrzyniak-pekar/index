@@ -118,7 +118,6 @@
 </p>
 
 </body>
-</html>
 
 <html lang="pl">
 <head>
@@ -234,5 +233,34 @@
     </ol>
 
 </body>
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dowcipy z grafikami</title>
+</head>
+<body>
+    <h1>Śmieszne dowcipy z grafikami</h1>
 
+    <p>Dowcip 1: Jakie są ulubione kwiaty hydraulika? ... Kwiaty wodociągowe!</p>
+    <img src="grafika1.gif" alt="grafika1-Wawrzyniak-Pekar"
+        align="right" border="25" width="115" height="112">
 
+    <p>Dowcip 2: Jak śni programista? ... Na JAVIE!</p>
+    <img src="grafika2.gif" alt="grafika2-Wawrzyniak-Pekar" 
+        align="left" border="15" width="105" height="109">
+
+    <p>Dowcip 3: Dlaczego komputer nie może się przeziębić? ... Bo ma antywirus!</p>
+    <img src="grafika3.gif" alt="grafika3-Wawrzyniak-Pekar" 
+        align="right" border="22" width="112" height="115">
+
+    <p>Dowcip 4: Co mówi zero do ósemki? ... Ładny pasek!</p>
+    <img src="grafika4.gif" alt="grafika4-Wawrzyniak-Pekar" 
+        align="left" border="18" width="108" height="105">
+
+    <p>Dowcip 5: Dlaczego Java nosi okulary? ... Bo nie widzi rozdzielczości!</p>
+    <img src="grafika5.gif" alt="grafika5-Wawrzyniak-Pekar" 
+        align="right" border="18" width="108" height="108">
+
+</body>
